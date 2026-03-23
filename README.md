@@ -57,7 +57,7 @@ Future  ▓▓▓▓▓▓▓▓▓▓  Python Developer 🎉
 
 ## 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://github.com/eswarijey/eswarijey/blob/main/README.md)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eswari-jeyaram-33b99bb1)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/eswarijey)
 
 ---
